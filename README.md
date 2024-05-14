@@ -1,0 +1,2 @@
+# sermon
+Practicing Git
